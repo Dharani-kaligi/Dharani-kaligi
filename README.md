@@ -67,7 +67,17 @@ Python • SQL • Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dharani-kaligi/Dharani-kaligi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Dharani-kaligi/Dharani-kaligi/output/github-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Dharani-kaligi/Dharani-kaligi/output/github-snake.svg">
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Dharani-kaligi/Dharani-kaligi/output/github-snake.svg">
+</picture>
 </p>
 
 ---
