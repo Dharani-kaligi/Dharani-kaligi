@@ -66,13 +66,9 @@ Python • SQL • Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch 
 
 ## 🐍 Contribution Snake
 
-> Enable GitHub Actions using Platane/snk in your profile repository, then use:
-
-```md
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dharani-kaligi/Dharani-kaligi/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Dharani-kaligi/Dharani-kaligi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
-```
 
 ---
 
